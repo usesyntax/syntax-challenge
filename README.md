@@ -1,4 +1,9 @@
 # Authentication Flow
+
+## Instructions
+1. To run frontend `yarn install && yarn dev`
+2. To run backend `uvicorn main:app --reload`
+
 ## Tasks
 ### Views
 To implement each view, you need to adapt images from the /assets folder.
